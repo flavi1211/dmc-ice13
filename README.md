@@ -9,4 +9,4 @@ Ice is one of the most important and interesting molecular crystals, exhibiting 
 * `VASP`:
 POSCAR (geometry) and POTCAR (pseudopotentials)
 * `PWscf+CASINO`:
-pw.d (PWscf input file), correlation.data (CASINO Jastrow file), mpc.data (CASINO MPC file), kpoints (list of **k**-points used for Twisted Average Boundary Conditions)
+pw.d (PWscf input file), correlation.data (CASINO Jastrow file), mpc.data (CASINO MPC file), kpoints (list of **k**-points used for Twist-Averaged Boundary Conditions)
