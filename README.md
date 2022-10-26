@@ -1,4 +1,4 @@
-This repository provides input files for the paper **DMC-ICE13: ambient and high pressure polymorphs of ice from diffusion Monte Carlo and Density Functional Theory** by Flaviano Della Pia, Andrea Zen, Dario Alfè and Angelos Michaelides ([Journal of Chemical Physics] (https://doi.org/10.1063/5.0102645).
+This repository provides input files for the paper **DMC-ICE13: ambient and high pressure polymorphs of ice from diffusion Monte Carlo and Density Functional Theory** by Flaviano Della Pia, Andrea Zen, Dario Alfè and Angelos Michaelides ([Journal of Chemical Physics] (https://doi.org/10.1063/5.0102645)).
 
 ## Paper abstract
 
